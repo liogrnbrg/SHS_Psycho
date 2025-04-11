@@ -1,0 +1,171 @@
+participant_id,video_number,feedback_type,time_on_video,initial_guess,initial_confidence,later_guess,later_confidence,feedback_influence,comments,hum_AI
+R_8Do6YUFYQenUARY,1,audio,33.9,1,87,1,54,1,,NH
+R_8Do6YUFYQenUARY,2,audio,56.8,2,68,1,69,1,,H
+R_8Do6YUFYQenUARY,3,audio,32.2,1,64,1,62,1,,NH
+R_8Do6YUFYQenUARY,4,audio,18.9,2,85,2,68,1,,H
+R_8Do6YUFYQenUARY,5,audio,20.7,1,77,1,91,1,,NH
+R_8Do6YUFYQenUARY,6,audio,75.3,2,58,2,40,1,,H
+R_8Do6YUFYQenUARY,7,audio,23.1,1,74,1,87,1,,NH
+R_8Do6YUFYQenUARY,8,audio,24.2,1,88,1,93,1,,H
+R_8Do6YUFYQenUARY,9,audio,20.4,2,46,2,25,1,,NH
+R_8Do6YUFYQenUARY,10,audio,30.8,2,41,2,66,1,,H
+R_3to1h0SPRWKMjoP,1,audio,50.5,2,40,2,100,2,,NH
+R_3to1h0SPRWKMjoP,2,audio,47.1,1,100,1,100,2,,H
+R_3to1h0SPRWKMjoP,3,audio,40.0,2,90,2,90,2,,NH
+R_3to1h0SPRWKMjoP,4,audio,40.7,2,40,2,44,2,,H
+R_3to1h0SPRWKMjoP,5,audio,18.1,2,100,2,100,2,,NH
+R_3to1h0SPRWKMjoP,6,audio,54.3,1,75,1,49,1,skibidi toilet ,H
+R_3to1h0SPRWKMjoP,7,audio,75.7,1,42,2,70,2,,NH
+R_3to1h0SPRWKMjoP,8,audio,36.2,2,72,2,65,2,,H
+R_3to1h0SPRWKMjoP,9,audio,36.1,1,100,1,100,2,,NH
+R_3to1h0SPRWKMjoP,10,audio,38.9,2,85,2,15,2,,H
+R_7YEYfnqKlBiEcLK,1,audio,32.6,2,61,2,60,2,,NH
+R_7YEYfnqKlBiEcLK,2,audio,104.3,2,60,2,61,2,,H
+R_7YEYfnqKlBiEcLK,3,audio,42.4,1,72,1,66,2,,NH
+R_7YEYfnqKlBiEcLK,4,audio,21.4,2,60,2,62,2,,H
+R_7YEYfnqKlBiEcLK,5,audio,48.3,1,63,1,67,2,,NH
+R_7YEYfnqKlBiEcLK,6,audio,3.6,2,71,2,65,2,,H
+R_7YEYfnqKlBiEcLK,7,audio,4.6,2,77,2,74,2,,NH
+R_7YEYfnqKlBiEcLK,8,audio,36.4,2,72,2,62,2,,H
+R_7YEYfnqKlBiEcLK,9,audio,22.4,2,66,2,66,2,,NH
+R_7YEYfnqKlBiEcLK,10,audio,30.6,1,67,2,66,2,,H
+R_5NFkJM20zBo2Fhf,1,text,236.5,1,74,2,70,1,Ce qu’il y avait noté dans le feed-back ,NH
+R_5NFkJM20zBo2Fhf,2,text,158.3,1,76,1,81,2,,H
+R_5NFkJM20zBo2Fhf,3,text,269.6,2,85,2,92,2,,NH
+R_5NFkJM20zBo2Fhf,4,text,84.4,1,97,1,94,2,,H
+R_5NFkJM20zBo2Fhf,5,text,82.8,1,95,1,98,2,,NH
+R_5NFkJM20zBo2Fhf,6,text,92.2,1,87,1,98,2,,H
+R_5NFkJM20zBo2Fhf,7,text,49.7,1,100,1,99,2,,NH
+R_5NFkJM20zBo2Fhf,8,text,151.1,2,56,1,0,1,Je détecte une description cohérente du tableau ,H
+R_5NFkJM20zBo2Fhf,9,text,44.7,1,0,1,90,2,,NH
+R_5NFkJM20zBo2Fhf,10,text,132.0,1,0,1,100,2,,H
+R_80NvFqnRsqG3Ofm,1,audio,58.0,2,60,2,60,2,,NH
+R_80NvFqnRsqG3Ofm,2,audio,172.7,1,50,1,50,2,,H
+R_80NvFqnRsqG3Ofm,3,audio,74.1,2,40,2,40,2,,NH
+R_80NvFqnRsqG3Ofm,4,audio,82.2,2,45,1,50,1,Les arguments ,H
+R_80NvFqnRsqG3Ofm,5,audio,10.8,2,30,2,30,2,,NH
+R_80NvFqnRsqG3Ofm,6,audio,39.4,2,70,2,60,2,,H
+R_80NvFqnRsqG3Ofm,7,audio,39.7,1,40,1,40,2,,NH
+R_80NvFqnRsqG3Ofm,8,audio,42.4,2,70,2,40,2,,H
+R_80NvFqnRsqG3Ofm,9,audio,37.1,1,50,1,50,2,,NH
+R_80NvFqnRsqG3Ofm,10,audio,48.2,1,50,2,50,1,,H
+R_7qr0CF1dAP6I5jn,1,audio,81.2,2,50,2,60,2,,NH
+R_7qr0CF1dAP6I5jn,2,audio,261.4,2,30,2,50,1,éléments d'analyse similaires aux miens formulés par un humain à la base,H
+R_7qr0CF1dAP6I5jn,3,audio,78.9,2,75,2,75,2,,NH
+R_7qr0CF1dAP6I5jn,4,audio,55.5,2,50,2,50,2,,H
+R_7qr0CF1dAP6I5jn,5,audio,48.2,1,60,1,61,2,,NH
+R_7qr0CF1dAP6I5jn,6,audio,71.2,2,81,2,71,1,"Argumentation crédible aboutissant à une conclusion opposée à la mienne, donc baisse de confiance en mon point de vue",H
+R_7qr0CF1dAP6I5jn,7,audio,86.3,2,29,1,50,1,"Confirmation d'une première analyse, balayée par un seul détail",NH
+R_7qr0CF1dAP6I5jn,8,audio,108.8,1,40,1,51,1,Même avis reposant sur les mêmes arguments que moi,H
+R_7qr0CF1dAP6I5jn,9,audio,77.4,1,51,1,62,1,confirmation de mon point de vue,NH
+R_7qr0CF1dAP6I5jn,10,audio,44.9,1,80,1,55,1,"Un point de vue opposé au mien, basé sur des arguments convaincants, a entraîné une baisse de ma certitude.",H
+R_8sWH8Oa8SRj0LXO,1,text,2.3,2,60,2,75,1,Les éléments évoqués dans le feedback me renforcent dans mon idée de base,NH
+R_8sWH8Oa8SRj0LXO,2,text,7.1,1,50,2,90,1,L'argumentation du feedback est très convaincante,H
+R_8sWH8Oa8SRj0LXO,3,text,5.7,1,50,2,65,1,Les explications du feedbacks me paraissent logiques après réflexion,NH
+R_8sWH8Oa8SRj0LXO,4,text,6.6,2,70,2,60,1,"Je n'ai pas changé d'avis, mais l'avis est moins fort qu'avant car les arguments évoqués me semblent assez crédibles et possibles",H
+R_8sWH8Oa8SRj0LXO,5,text,4.3,1,60,1,60,2,,NH
+R_8sWH8Oa8SRj0LXO,6,text,4.4,2,61,1,60,1,L'argumentation très détaillée est très convaincante,H
+R_8sWH8Oa8SRj0LXO,7,text,2.4,1,50,1,70,1,L'argumentation évoque des points et des détails que je n'avais pas remarqué qui renforcent l'idée défendue,NH
+R_8sWH8Oa8SRj0LXO,8,text,4.5,1,60,1,60,2,,H
+R_8sWH8Oa8SRj0LXO,9,text,4.4,2,50,2,50,2,,NH
+R_8sWH8Oa8SRj0LXO,10,text,6.1,1,55,2,55,1,Les arguments évoqués dans le feedback m'ont fait remarquer des détails que je n'avais pas vu dans la vidéo,H
+R_81Gvkii1sJ5aVMm,1,text,52.0,2,90,2,90,2,,NH
+R_81Gvkii1sJ5aVMm,2,text,75.5,1,75,1,81,2,,H
+R_81Gvkii1sJ5aVMm,3,text,41.9,1,50,1,25,2,,NH
+R_81Gvkii1sJ5aVMm,4,text,65.2,1,90,1,100,2,,H
+R_81Gvkii1sJ5aVMm,5,text,41.5,1,90,1,100,1,Le feed-back confirme mon avis ,NH
+R_81Gvkii1sJ5aVMm,6,text,46.6,2,100,2,50,2,,H
+R_81Gvkii1sJ5aVMm,7,text,47.1,1,50,1,75,1,Confirme mon avis ,NH
+R_81Gvkii1sJ5aVMm,8,text,46.4,1,75,1,80,1,Confirme mon avis ,H
+R_81Gvkii1sJ5aVMm,9,text,44.2,1,90,1,100,2,,NH
+R_81Gvkii1sJ5aVMm,10,text,44.7,1,50,2,50,1,La précision de l’analyse est pertinente ,H
+R_6UI0Iw6BBK2jgZ3,1,audio,10.8,1,50,1,50,2,,NH
+R_6UI0Iw6BBK2jgZ3,2,audio,8.8,2,60,2,60,2,,H
+R_6UI0Iw6BBK2jgZ3,3,audio,11.2,2,60,2,60,2,,NH
+R_6UI0Iw6BBK2jgZ3,4,audio,10.2,2,50,2,50,2,,H
+R_6UI0Iw6BBK2jgZ3,5,audio,3.1,2,60,2,65,2,,NH
+R_6UI0Iw6BBK2jgZ3,6,audio,4.0,2,70,2,70,2,,H
+R_6UI0Iw6BBK2jgZ3,7,audio,5.5,2,70,2,70,2,,NH
+R_6UI0Iw6BBK2jgZ3,8,audio,4.6,2,70,2,70,2,,H
+R_6UI0Iw6BBK2jgZ3,9,audio,5.9,1,80,1,80,2,,NH
+R_6UI0Iw6BBK2jgZ3,10,audio,4.8,1,55,1,55,2,,H
+R_7PieuSzxJknSSmV,1,text,36.5,1,51,1,51,2,,NH
+R_7PieuSzxJknSSmV,2,text,35.6,1,80,1,81,2,,H
+R_7PieuSzxJknSSmV,3,text,73.1,1,71,1,72,2,,NH
+R_7PieuSzxJknSSmV,4,text,34.9,2,62,2,63,2,,H
+R_7PieuSzxJknSSmV,5,text,35.7,1,66,1,66,2,,NH
+R_7PieuSzxJknSSmV,6,text,33.3,2,54,2,53,2,,H
+R_7PieuSzxJknSSmV,7,text,35.8,1,72,1,69,2,,NH
+R_7PieuSzxJknSSmV,8,text,34.7,1,82,1,82,2,,H
+R_7PieuSzxJknSSmV,9,text,37.6,1,74,1,75,2,,NH
+R_7PieuSzxJknSSmV,10,text,40.3,2,46,2,56,1,"Eloïse note qu'il y avait une absence de détails spécifiques, ce qui a renforcé my croyance qu'elle ment.",H
+R_2qrSm8ZjVcnMr3U,1,audio,76.5,1,80,1,70,2,,NH
+R_2qrSm8ZjVcnMr3U,2,audio,56.4,2,50,2,80,2,,H
+R_2qrSm8ZjVcnMr3U,3,audio,37.4,1,70,1,50,2,,NH
+R_2qrSm8ZjVcnMr3U,4,audio,56.1,2,80,1,50,1,la cohérence des propos dans la description qui a été soulignée ,H
+R_2qrSm8ZjVcnMr3U,5,audio,22.7,2,90,2,80,2,,NH
+R_2qrSm8ZjVcnMr3U,6,audio,40.3,2,83,2,70,2,,H
+R_2qrSm8ZjVcnMr3U,7,audio,36.2,1,90,1,90,2,,NH
+R_2qrSm8ZjVcnMr3U,8,audio,52.9,2,50,1,40,1,La mise en evidence des emotions transmises ,H
+R_2qrSm8ZjVcnMr3U,9,audio,35.4,2,59,2,61,2,,NH
+R_2qrSm8ZjVcnMr3U,10,audio,37.7,1,60,1,50,2,,H
+R_5Pf5TbQ4BOtf9W9,1,text,9.3,1,65,1,70,2,,NH
+R_5Pf5TbQ4BOtf9W9,2,text,18.9,2,91,2,82,2,,H
+R_5Pf5TbQ4BOtf9W9,3,text,9.6,1,100,1,100,2,,NH
+R_5Pf5TbQ4BOtf9W9,4,text,19.3,2,88,2,90,2,,H
+R_5Pf5TbQ4BOtf9W9,5,text,14.3,1,100,1,100,2,,NH
+R_5Pf5TbQ4BOtf9W9,6,text,12.7,2,89,2,79,2,,H
+R_5Pf5TbQ4BOtf9W9,7,text,15.2,2,100,2,100,2,,NH
+R_5Pf5TbQ4BOtf9W9,8,text,16.9,1,100,1,100,2,,H
+R_5Pf5TbQ4BOtf9W9,9,text,22.9,1,68,1,92,1,,NH
+R_5Pf5TbQ4BOtf9W9,10,text,245.7,2,63,2,100,1,"Ça n’a juste fait que valider mon hypothèse que la personne mentais , il est vrais que ça manquait de détails.",H
+R_2wiSvbzpYyjGCPG,1,audio,28.2,1,60,1,50,2,,NH
+R_2wiSvbzpYyjGCPG,2,audio,21.7,1,73,2,28,1,l’émotion que la personne exprime ,H
+R_2wiSvbzpYyjGCPG,3,audio,33.4,2,63,2,84,2,,NH
+R_2wiSvbzpYyjGCPG,4,audio,40.5,2,51,2,61,2,,H
+R_2wiSvbzpYyjGCPG,5,audio,21.3,2,87,2,82,2,,NH
+R_2wiSvbzpYyjGCPG,6,audio,37.2,2,48,1,47,1,la narration ,H
+R_2wiSvbzpYyjGCPG,7,audio,41.6,1,64,1,70,2,,NH
+R_2wiSvbzpYyjGCPG,8,audio,36.3,2,48,2,55,2,,H
+R_2wiSvbzpYyjGCPG,9,audio,32.3,1,68,1,72,2,,NH
+R_2wiSvbzpYyjGCPG,10,audio,43.9,1,43,2,62,1,l’absence de details,H
+R_2WCCu7YqEvNQPML,1,text,85.2,1,60,1,39,1,Mon assurance dans le choix de ma réponse.,NH
+R_2WCCu7YqEvNQPML,2,text,78.3,1,94,1,90,2,,H
+R_2WCCu7YqEvNQPML,3,text,72.0,2,55,2,82,1,Ce n'est pas le contenu du feedback en lui même mais le fait que la conclusion (la personne a menti) corrèle avec ce que je pense qui a confirmé mon choix. Je suis donc plus sûre de ma réponse.,NH
+R_2WCCu7YqEvNQPML,4,text,43.8,2,70,2,70,2,,H
+R_2WCCu7YqEvNQPML,5,text,75.5,2,60,2,60,2,,NH
+R_2WCCu7YqEvNQPML,6,text,74.2,2,20,2,19,2,,H
+R_2WCCu7YqEvNQPML,7,text,50.0,2,43,2,39,2,,NH
+R_2WCCu7YqEvNQPML,8,text,50.8,2,93,2,93,2,,H
+R_2WCCu7YqEvNQPML,9,text,39.0,1,57,1,57,2,,NH
+R_2WCCu7YqEvNQPML,10,text,40.8,1,44,2,54,1,Le fait qu'Eloïse ait souligné dans son feedback que la narration est très bien construite.,H
+R_8eLVtLf7mt2waBG,1,audio,93.2,1,40,1,55,1,"La personne n'a pas l'air sûre de dire que le monsieur est à la plage + le fait qu'il dise qu'à l'arrière plan on y voit des voitures de sport, je pense donc qu'on ne voit pas d'eau et que c'est pour cela que la personne hausse les sourcils en disant que l'homme se trouve à la plage. L'IA m'a fait penser au fait que l'arrière plan est probablement une route et non pas de l'eau",NH
+R_8eLVtLf7mt2waBG,2,audio,100.4,1,67,2,50,1,Le fait que la personne ne semble pas balayer l'image du regard me trouble un peu et le feedback disant que plusieurs signes physiques sembleraient révéler un mensonge me convainc car j'avais quelques doutes à ce propos,H
+R_8eLVtLf7mt2waBG,3,audio,117.4,1,76,1,75,2,,NH
+R_8eLVtLf7mt2waBG,4,audio,48.3,2,81,1,55,1,Ce qui me faisait dire que la personne mentait était le regard qui fuit plusieurs fois l'image mais au final je suis d'accord avec le feedback qui dit que la parole est fluide et quand la personne parle du chemin sur lequel marchent les personnes on voit un mouvement des yeux qui longe l'image ce qui me laisse penser qu'il y'a bien un chemin,H
+R_8eLVtLf7mt2waBG,5,audio,50.6,2,86,2,87,2,,NH
+R_8eLVtLf7mt2waBG,6,audio,69.8,1,65,1,73,1,"Il m'a permis de ""vérifier"" ce que je pensais donc je suis plus sûre de ce que je pense",H
+R_8eLVtLf7mt2waBG,7,audio,72.2,1,78,1,78,2,,NH
+R_8eLVtLf7mt2waBG,8,audio,43.1,1,65,1,66,2,,H
+R_8eLVtLf7mt2waBG,9,audio,100.8,2,66,2,66,2,,NH
+R_8eLVtLf7mt2waBG,10,audio,48.9,1,70,2,70,2,,H
+R_8KykXY1Mt1ry64p,1,audio,81.8,2,19,1,40,2,,NH
+R_8KykXY1Mt1ry64p,2,audio,40.2,2,42,2,62,2,,H
+R_8KykXY1Mt1ry64p,3,audio,34.4,1,60,1,70,2,,NH
+R_8KykXY1Mt1ry64p,4,audio,28.0,2,71,2,76,2,,H
+R_8KykXY1Mt1ry64p,5,audio,43.2,2,35,1,57,1,la mise en avant de la cohérence de la narrative,NH
+R_8KykXY1Mt1ry64p,6,audio,33.6,2,96,2,93,2,,H
+R_8KykXY1Mt1ry64p,7,audio,36.9,2,87,2,89,2,,NH
+R_8KykXY1Mt1ry64p,8,audio,37.9,1,66,1,87,1,"ça ne l'a pas changé, mais il a renforcé mon opinion.",H
+R_8KykXY1Mt1ry64p,9,audio,40.1,2,76,2,74,2,,NH
+R_8KykXY1Mt1ry64p,10,audio,23.1,2,85,2,59,2,,H
+R_894cxbBUfL2U7aF,1,text,40.6,2,65,2,93,1,,NH
+R_894cxbBUfL2U7aF,2,text,39.6,1,73,1,0,2,,H
+R_894cxbBUfL2U7aF,3,text,41.9,1,50,2,62,1,,NH
+R_894cxbBUfL2U7aF,4,text,37.5,2,63,1,100,1,,H
+R_894cxbBUfL2U7aF,5,text,43.5,1,47,1,73,1,,NH
+R_894cxbBUfL2U7aF,6,text,33.0,2,84,2,10,2,,H
+R_894cxbBUfL2U7aF,7,text,36.8,1,70,1,83,1,,NH
+R_894cxbBUfL2U7aF,8,text,33.4,1,58,1,88,1,,H
+R_894cxbBUfL2U7aF,9,text,66.9,1,64,1,78,1,,NH
+R_894cxbBUfL2U7aF,10,text,37.5,2,53,2,72,1,,H
