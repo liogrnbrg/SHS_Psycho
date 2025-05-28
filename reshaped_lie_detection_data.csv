@@ -79,6 +79,16 @@ R_81Gvkii1sJ5aVMm,7,text,NH,47.1,1,50,1,75,1,Confirme mon avis ,0.28333333333333
 R_81Gvkii1sJ5aVMm,8,text,H,46.4,1,75,1,80,1,Confirme mon avis ,0.2833333333333334,0.4
 R_81Gvkii1sJ5aVMm,9,text,NH,44.2,1,90,1,100,2,,0.2833333333333334,0.4
 R_81Gvkii1sJ5aVMm,10,text,H,44.7,1,50,2,50,1,La précision de l’analyse est pertinente ,0.2833333333333334,0.4
+R_2J8FNZeB1f55bkj,1,text,NH,,1,59,1,15,2,test,0.35000000000000003,0.2
+R_2J8FNZeB1f55bkj,2,text,H,,1,50,1,68,1,test,0.35000000000000003,0.2
+R_2J8FNZeB1f55bkj,3,text,NH,,1,31,1,66,1,test,0.35000000000000003,0.2
+R_2J8FNZeB1f55bkj,4,text,H,,1,39,1,64,1,test,0.35000000000000003,0.2
+R_2J8FNZeB1f55bkj,5,text,NH,,2,79,1,81,1,test,0.35000000000000003,0.2
+R_2J8FNZeB1f55bkj,6,text,H,,1,26,1,70,1,tes,0.35000000000000003,0.2
+R_2J8FNZeB1f55bkj,7,text,NH,,1,22,1,55,2,test,0.35000000000000003,0.2
+R_2J8FNZeB1f55bkj,8,text,H,,1,69,1,67,1,ttesr,0.35000000000000003,0.2
+R_2J8FNZeB1f55bkj,9,text,NH,,1,58,1,71,1,test,0.35000000000000003,0.2
+R_2J8FNZeB1f55bkj,10,text,H,,1,45,1,54,1,test,0.35000000000000003,0.2
 R_6UI0Iw6BBK2jgZ3,1,audio,NH,10.8,1,50,1,50,2,,0.5166666666666666,0.4
 R_6UI0Iw6BBK2jgZ3,2,audio,H,8.8,2,60,2,60,2,,0.5166666666666666,0.4
 R_6UI0Iw6BBK2jgZ3,3,audio,NH,11.2,2,60,2,60,2,,0.5166666666666666,0.4
@@ -109,6 +119,16 @@ R_2qrSm8ZjVcnMr3U,7,audio,NH,36.2,1,90,1,90,2,,0.4166666666666667,0.6
 R_2qrSm8ZjVcnMr3U,8,audio,H,52.9,2,50,1,40,1,La mise en evidence des emotions transmises ,0.4166666666666667,0.6
 R_2qrSm8ZjVcnMr3U,9,audio,NH,35.4,2,59,2,61,2,,0.4166666666666667,0.6
 R_2qrSm8ZjVcnMr3U,10,audio,H,37.7,1,60,1,50,2,,0.4166666666666667,0.6
+R_30UU8PabYRFeT7t,1,text,NH,5.6,2,70,2,80,1,Le commentaire de l'IA par rapport au propos un peu incohérent sur la côte d'Azur,0.9166666666666666,0.8
+R_30UU8PabYRFeT7t,2,text,H,4.3,1,85,1,85,2,,0.9166666666666666,0.8
+R_30UU8PabYRFeT7t,3,text,NH,6.5,1,95,1,95,2,,0.9166666666666666,0.8
+R_30UU8PabYRFeT7t,4,text,H,17.4,2,100,2,90,1,C'est vrai qu'on remarque une certaine cohérence mais le mouvement de ses yeux me fait penser qu'il ment,0.9166666666666666,0.8
+R_30UU8PabYRFeT7t,5,text,NH,21.7,1,55,1,70,1,Le feedback a renforcé cette image que je me faisais déjà dans la tête,0.9166666666666666,0.8
+R_30UU8PabYRFeT7t,6,text,H,3.0,2,81,2,60,1,Le feedback de l'IA est très complet mais la description me semble bien moins complexe qu'auparavant,0.9166666666666666,0.8
+R_30UU8PabYRFeT7t,7,text,NH,10.0,2,60,2,60,2,,0.9166666666666666,0.8
+R_30UU8PabYRFeT7t,8,text,H,45.3,2,40,1,50,1,"Juste un autre avis extérieur, je n'étais pas sûr de ma réponse et les éléments de réponse de l'IA m'ont un peu convaincu",0.9166666666666666,0.8
+R_30UU8PabYRFeT7t,9,text,NH,5.0,1,100,1,100,2,,0.9166666666666666,0.8
+R_30UU8PabYRFeT7t,10,text,H,4.5,2,75,2,80,1,Confirmation de mes doutes,0.9166666666666666,0.8
 R_5Pf5TbQ4BOtf9W9,1,text,NH,9.3,1,65,1,70,2,,0.43333333333333335,0.4
 R_5Pf5TbQ4BOtf9W9,2,text,H,18.9,2,91,2,82,2,,0.43333333333333335,0.4
 R_5Pf5TbQ4BOtf9W9,3,text,NH,9.6,1,100,1,100,2,,0.43333333333333335,0.4
@@ -359,6 +379,16 @@ R_22xgESAjiDxleIK,7,text,NH,2.2,2,33,1,62,2,,0.25,0.6
 R_22xgESAjiDxleIK,8,text,H,2.3,1,34,1,86,1,,0.25,0.6
 R_22xgESAjiDxleIK,9,text,NH,1.6,2,63,1,66,1,,0.25,0.6
 R_22xgESAjiDxleIK,10,text,H,1.8,1,54,2,24,1,,0.25,0.6
+R_5OIw98keISVxxwv,1,audio,NH,59.4,2,20,2,30,2,,0.6166666666666667,0.6
+R_5OIw98keISVxxwv,2,audio,H,48.4,1,40,1,40,2,,0.6166666666666667,0.6
+R_5OIw98keISVxxwv,3,audio,NH,74.7,1,20,1,30,1,Le discours de l’IA n’est pas cohérent il parle de probabilité puis à l’air convaincu elle ne dit rien de précis et ne s’appuie pas sur des éléments réels mais sur des phrases toutes faites ,0.6166666666666667,0.6
+R_5OIw98keISVxxwv,4,audio,H,56.6,2,49,2,30,1,L’argument des détails de la description a fait baisser ma certitude mais ne l’a pas complètement persuadé du contraire parce que ces détails justement pour un suisse auraient dû permettre de savoir si c’est Genève ou Lausanne ,0.6166666666666667,0.6
+R_5OIw98keISVxxwv,5,audio,NH,74.8,2,10,2,10,2,,0.6166666666666667,0.6
+R_5OIw98keISVxxwv,6,audio,H,44.3,1,12,1,20,1,Je suis assez d’accord avec les arguments développés et ça l’a conforté dans mon idée ,0.6166666666666667,0.6
+R_5OIw98keISVxxwv,7,audio,NH,60.6,1,40,1,40,1,Ça a conforté mon idée que c’est la vérité mais mon score de confiance était déjà haut et ça ne l’a quand même pas accentué ,0.6166666666666667,0.6
+R_5OIw98keISVxxwv,8,audio,H,43.8,2,17,2,15,2,,0.6166666666666667,0.6
+R_5OIw98keISVxxwv,9,audio,NH,45.1,2,10,2,10,2,,0.6166666666666667,0.6
+R_5OIw98keISVxxwv,10,audio,H,89.3,2,10,2,9,2,,0.6166666666666667,0.6
 R_6vcSC96SjW37HKS,1,audio,NH,51.3,2,84,2,89,2,,0.6166666666666667,0.5
 R_6vcSC96SjW37HKS,2,audio,H,43.9,2,72,1,77,2,,0.6166666666666667,0.5
 R_6vcSC96SjW37HKS,3,audio,NH,40.1,1,86,1,92,2,,0.6166666666666667,0.5
@@ -685,6 +715,16 @@ R_6mN05ozTdCtBk2t,7,text,NH,2.7,1,51,1,100,1,cela l'a confirmé,0.51666666666666
 R_6mN05ozTdCtBk2t,8,text,H,3.1,1,82,1,82,2,,0.5166666666666667,0.7
 R_6mN05ozTdCtBk2t,9,text,NH,2.8,1,72,1,72,2,,0.5166666666666667,0.7
 R_6mN05ozTdCtBk2t,10,text,H,3.3,2,60,2,82,1,,0.5166666666666667,0.7
+R_8q9IqUPOZghrjsQ,1,text,NH,5.9,1,75,1,65,1,l'analyse des différents plans de l'image,0.4666666666666666,0.7
+R_8q9IqUPOZghrjsQ,2,text,H,9.0,1,70,1,70,2,,0.4666666666666666,0.7
+R_8q9IqUPOZghrjsQ,3,text,NH,8.7,2,50,1,50,2,"Difficile, le petit rire à la fin fait penser qu'il peut y avoir manipulation",0.4666666666666666,0.7
+R_8q9IqUPOZghrjsQ,4,text,H,2.8,2,50,2,50,2,Une série de petits coups d'oeil vers le haut semblerait indiquer que la personne inventerait la situation.,0.4666666666666666,0.7
+R_8q9IqUPOZghrjsQ,5,text,NH,34.3,2,50,2,50,2,"Une fois encore, la personne lève les yeux au moment d'indiquer un nombre de personnes dans la scène, comme s'il allait chercher la réponse dans sa tête plutôt que sur l'image.",0.4666666666666666,0.7
+R_8q9IqUPOZghrjsQ,6,text,H,3.2,1,50,2,50,2,la personne se gratte la tête après une hésitation,0.4666666666666666,0.7
+R_8q9IqUPOZghrjsQ,7,text,NH,2.6,1,70,1,70,2,,0.4666666666666666,0.7
+R_8q9IqUPOZghrjsQ,8,text,H,2.7,1,60,2,60,2,,0.4666666666666666,0.7
+R_8q9IqUPOZghrjsQ,9,text,NH,5.9,1,70,1,70,2,,0.4666666666666666,0.7
+R_8q9IqUPOZghrjsQ,10,text,H,3.4,2,50,2,50,2,On sent un petit rictus au milieu de la description avec un mouvement des yeux qui me ferait penser qu'il s'agit d'une invention,0.4666666666666666,0.7
 R_8GqnYpK7XiOdyCt,1,text,NH,39.8,1,77,1,43,1,"Je ne voyais pas forcément l’image de manière ‘réaliste’ mais plus sous forme de dessin, croquis et je ne me basais pas sur les faits réels/probables. J’ai surtout regardé les mimiques de la personnes. Or, je pense que l’ia a simplement eu l’information du décors mais pas les mimiques ou la gestuelle ou encore si on parle d’une image réelle ou un dessin.. 
 ",0.6666666666666666,0.9
 R_8GqnYpK7XiOdyCt,2,text,H,53.9,1,64,1,37,2,,0.6666666666666666,0.9
@@ -738,3 +778,13 @@ R_21GwgasGE5hbaoY,7,audio,NH,10.8,1,35,1,34,2,,0.7166666666666667,0.8
 R_21GwgasGE5hbaoY,8,audio,H,16.8,2,40,2,40,2,,0.7166666666666667,0.8
 R_21GwgasGE5hbaoY,9,audio,NH,5.6,1,85,1,88,2,,0.7166666666666667,0.8
 R_21GwgasGE5hbaoY,10,audio,H,6.5,1,86,1,70,1,"C'est vrai que la description était moins fournie que les autres (chose que je n'avais pas tant osulignée). Je regarde normalement plutôt le visage de la personne et d'essayer de voir quand elle invente des détails mais ici comme peu de détails ont été ajoutés à part les bulles de savons cela me fait un tout petit peu plus douter. Mais je pense quand même qu'elle dit la vérité, le feedback m'a seulement rendue moins certaine de cela.",0.7166666666666667,0.8
+R_2ZHtATxuiB5Vu4G,1,text,NH,5.0,1,50,1,50,2,,0.5499999999999999,0.7
+R_2ZHtATxuiB5Vu4G,2,text,H,46.5,1,50,1,50,2,,0.5499999999999999,0.7
+R_2ZHtATxuiB5Vu4G,3,text,NH,27.6,2,50,2,50,2,,0.5499999999999999,0.7
+R_2ZHtATxuiB5Vu4G,4,text,H,37.9,1,60,1,70,1,Le feedback a renforcé ce que je pensais avoir détecté.,0.5499999999999999,0.7
+R_2ZHtATxuiB5Vu4G,5,text,NH,43.8,1,50,1,60,2,,0.5499999999999999,0.7
+R_2ZHtATxuiB5Vu4G,6,text,H,37.2,2,60,2,60,2,,0.5499999999999999,0.7
+R_2ZHtATxuiB5Vu4G,7,text,NH,42.3,1,75,1,75,2,,0.5499999999999999,0.7
+R_2ZHtATxuiB5Vu4G,8,text,H,44.6,2,50,2,50,2,,0.5499999999999999,0.7
+R_2ZHtATxuiB5Vu4G,9,text,NH,41.3,1,60,1,60,2,,0.5499999999999999,0.7
+R_2ZHtATxuiB5Vu4G,10,text,H,44.8,2,65,2,65,2,,0.5499999999999999,0.7
